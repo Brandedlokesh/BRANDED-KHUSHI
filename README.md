@@ -1,11 +1,11 @@
 
-<h1 align="center">⚡ Khushi𝔹𝕠𝕥 ⚡</h1>
+<h1 align="center">🔥 KHUSHIBOT 🔥</h1>
 
 [![Bot logo](https://graph.org/file/683575bb9191eca6f8794.jpg)](https://t.me/Worldchattinggroup0)
 
 
 <h6>This is a userbot made for telegram. 
-This is the one and only official KhushiBot💖 Userbot made by @king82w. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h6>
+This is the one and only official KhushiBot💙 Userbot made by @king82w. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h6>
 
 [![](https://img.shields.io/badge/KHUSHIBOT-v1.1-blue)](#)
 [![Stars](https://img.shields.io/github/stars/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=yellow)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/stargazers)
