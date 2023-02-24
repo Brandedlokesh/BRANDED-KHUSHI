@@ -1,34 +1,34 @@
 
-<h1 align="center">⚡ 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 ⚡</h1>
+<h1 align="center">⚡ Khushi𝔹𝕠𝕥 ⚡</h1>
 
-[![Bot logo](https://telegra.ph/file/b3af720021620b4f88a66.jpg)](https://t.me/TechnoBot_Support)
+[![Bot logo](https://graph.org/file/683575bb9191eca6f8794.jpg)](https://t.me/Worldchattinggroup0)
 
 
 <h6>This is a userbot made for telegram. 
-This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h6>
+This is the one and only official KhushiBot💖 Userbot made by @king82w. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h6>
 
-[![](https://img.shields.io/badge/TECHNOBOT-v1.1-blue)](#)
-[![Stars](https://img.shields.io/github/stars/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=yellow)](https://github.com/TECHNOBOT-OP/TECHNOBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=orange)](https://github.com/TECHNOBOT-OP/TECHNOBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=green)](https://github.com/TECHNOBOT-OP/TECHNOBOT/)   
+[![](https://img.shields.io/badge/KHUSHIBOT-v1.1-blue)](#)
+[![Stars](https://img.shields.io/github/stars/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=yellow)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=orange)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/fork)
+[![Size](https://img.shields.io/github/repo-size/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=green)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TECHNOBOT-OP/TECHNOBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TECHNOBOT-OP/TECHNOBOT)
-[![Contributors](https://img.shields.io/github/contributors/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=green)](https://github.com/TECHNOBOT-OP/TECHNOBOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT)
+[![Contributors](https://img.shields.io/github/contributors/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=green)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TECHNOBOT-OP/TECHNOBOT/blob/master/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/blob/master/LICENSE)   
 
 ------
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/TECHNOBOT-OP/TECHNOBOT/network/members"><img src="https://img.shields.io/github/forks/TECHNOBOT-OP/TECHNOBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT/stargazers"><img src="https://img.shields.io/github/stars/TECHNOBOT-OP/TECHNOBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT?"></a>
+    <a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT/network/members"><img src="https://img.shields.io/github/forks/KHUSHIBOT-OP/KHUSHIBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT/stargazers"><img src="https://img.shields.io/github/stars/KHUSHIBOT-OP/KHUSHIBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT"></a><p align="left"><a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT?"></a>
 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/TechnoBot_Support)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/TechnoBot_Updates)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Worldchattinggroup0)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/networkwcg)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
@@ -48,7 +48,7 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 
 Run Command for Koyeb:
 ```bash
-gunicorn app:app & python3 -m Technobot
+gunicorn app:app & python3 -m khushibot
 ```
 
 <h3> StringSession </h3>
@@ -61,16 +61,16 @@ gunicorn app:app & python3 -m Technobot
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 LOCALLY ON ANY OTHER VPS FOLLOW THE CMDS</h1>
+<h1 align="center">TO HOST khushi𝔹𝕠𝕥 LOCALLY ON ANY OTHER VPS FOLLOW THE CMDS</h1>
 
 ```bash
 sudo apt update && sudo apt upgrade -y
 
 sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo
 
-git clone https://github.com/TECHNOBOT-OP/TECHNOUSERBOT tbot
+git clone https://github.com/WCGKING/khushi
 
-cd tbot
+cd khushi
 
 sudo apt install virtualenv
 
@@ -87,7 +87,7 @@ nano config.py
 ```bash
 sudo apt install screen
 
-screen -S tbot
+screen -S khushi
 
 virtualenv venv
 
@@ -103,7 +103,7 @@ source venv/bin/activate
 
 pip3 install -r requirements.txt
 
-python3 -m Technobot
+python3 -m khushibot
 ```
  
  
@@ -133,19 +133,19 @@ python3 -m Technobot
 ```
 Get help regarding setting up 
 
-your 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 in our official 
+your khushi𝔹𝕠𝕥 in our official 
 
 support Group and get updates
 
 notifications in Update Channel.
 ```
 
-<a href="https://t.me/TechnoBot_Updates"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/networkwcg"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/TechnoBot_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Worldchattinggroup0"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Technoboy_02)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/king82w)
 
 
 <details>
@@ -156,7 +156,7 @@ notifications in Update Channel.
 
 Copyright (C) 2022 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥
 
-Poject [𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥](https://github.com/TECHNOBOY-OP/TECHNOBOT) is free software: you can redistribute it and/or modify
+Poject [KHUSHIBOT](https://github.com/KHUSHIBOY-OP/KHUSHIBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
@@ -186,8 +186,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 • Motivated mainly by LEGENDBOT and Catuserbot.
 
-• [LonamiWebs](https://github.com/LonamiWebs/Telethon) for Telethon.
+• [LonamiWebs](https://github.com/LonamiWebs/khushi) for khushi.
 
-• [TECHNO](https://github.com/TECHNOBOT-OP):DEV
+• [KHUSHI](https://github.com/WCGKING/khushi):DEV
 
 • Plugins credit goes to [LEGENDBOT](https://github.com/LEGEND-AI/LEGENDBOT)
