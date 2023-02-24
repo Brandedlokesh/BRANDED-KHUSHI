@@ -1,5 +1,5 @@
 
-<h1 align="center">🔥 KHUSHIBOT 🔥</h1>
+<h1 align="center">🔥 KHUSHI BOT 🔥</h1>
 
 [![Bot logo](https://graph.org/file/683575bb9191eca6f8794.jpg)](https://t.me/Worldchattinggroup0)
 
