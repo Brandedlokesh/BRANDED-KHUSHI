@@ -1,14 +1,14 @@
 {
-  "name": "Technobot",
+  "name": "BRANDED-KHUSHI",
   "description": "TechnoBot is one of the best userbot on telegram based on telethon & python",
-  "logo": "https://te.legra.ph/file/d882eee939a66432650b4.jpg",
+  "logo": "https://te.legra.ph/file/ebf34649780915d5951fe.jpg",
   "keywords": [
     "plugin",
     "technobot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TECHNOBOT-OP/TECHNOBOT",
+  "repository": "https://github.com/WCGKING/BRANDED-KHUSHI",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -29,7 +29,7 @@
       "value": ""
     },
     "TECHNO_STRING": {
-      "description": "Get this value by running https://replit.com/@Technoboy02/TechnoString?v=1",
+      "description": "Get this value by running @BRANDEDSTRINGSESSION_BOT",
       "value": ""
     },
     "BOT_TOKEN": {
