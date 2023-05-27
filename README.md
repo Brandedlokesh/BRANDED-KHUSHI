@@ -27,8 +27,8 @@ This is the one and only official KhushiBot💙 Userbot made by @king82w. Don't 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Worldchattinggroup0)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/networkwcg)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BRANDED_LINK)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/BRANDRD_21)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
@@ -39,7 +39,7 @@ This is the one and only official KhushiBot💙 Userbot made by @king82w. Don't 
 
 <h3> ∂єρℓσу тσ нєяσкυ</h3>
 
-<p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-grey?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BRANDED-KHUSHI"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </a>
 
 <h3> ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ </h3>
