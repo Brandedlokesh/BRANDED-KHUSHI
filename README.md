@@ -8,21 +8,21 @@
 This is the one and only official KhushiBot💙 Userbot made by @king82w. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h6>
 
 [![](https://img.shields.io/badge/KHUSHIBOT-v1.1-blue)](#)
-[![Stars](https://img.shields.io/github/stars/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=yellow)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=orange)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=green)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/)   
+[![Stars](https://img.shields.io/github/stars/WCGKING/BRANDED-KHUSHI?style=flat-square&color=yellow)](https://github.com/WCGKING/BRANDED-KHUSHI/stargazers)
+[![Forks](https://img.shields.io/github/forks/WCGKING/BRANDED-KHUSHI?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDED-KHUSHI/fork)
+[![Size](https://img.shields.io/github/repo-size/WCGKING/BRANDED-KHUSHI?style=flat-square&color=green)](https://github.com/WCGKING/BRANDED-KHUSHI/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT)
-[![Contributors](https://img.shields.io/github/contributors/KHUSHIBOT-OP/KHUSHIBOT?style=flat-square&color=green)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/WCGKING/BRANDED-KHUSHI/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/WCGKING/BRANDED-KHUSHI)
+[![Contributors](https://img.shields.io/github/contributors/WCGKING/BRANDED-KHUSHI?style=flat-square&color=green)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/KHUSHIBOT-OP/KHUSHIBOT/blob/master/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/WCGKING/BRANDED-KHUSHI/blob/master/LICENSE)   
 
 ------
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT/network/members"><img src="https://img.shields.io/github/forks/KHUSHIBOT-OP/KHUSHIBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT/stargazers"><img src="https://img.shields.io/github/stars/KHUSHIBOT-OP/KHUSHIBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT"></a><p align="left"><a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT?"></a>
+    <a href="https://github.com/WCGKING/BRANDED-KHUSHI/network/members"><img src="https://img.shields.io/github/forks/WCGKING/BRANDED-KHUSHI?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/KHUSHIBOT-OP/KHUSHIBOT/stargazers"><img src="https://img.shields.io/github/stars/WCGKING/BRANDED-KHUSHI?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/WCGKING/BRANDED-KHUSHI"></a><p align="left"><a href="https://github.com/WCGKING/BRANDED-KHUSHI?"></a>
 
 ------
 
